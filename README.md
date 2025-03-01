@@ -19,4 +19,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![](https://komarev.com/ghpvc/?username=chaitanya-codes)
+![](https://komarev.com/ghpvc/?username=chaitanya-codes&style=for-the-badge)
